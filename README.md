@@ -174,7 +174,7 @@ Recommended platforms:
 Bharath Kumar
 
 GitHub:
-[https://github.com/sreevalli2307](https://github.com/sreevalli2307)
+
 
 ---
 
